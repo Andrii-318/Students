@@ -1,0 +1,36 @@
+body {
+  background-color: #111;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 80%;
+  margin: 20px auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+.student {
+  background-color: #333;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.student h2 {
+  color: #ffcc00;
+  margin-top: 0;
+}
+
+.student p {
+  margin: 5px 0;
+}
+
+.summary {
+  font-weight: bold;
+}
